@@ -1,0 +1,14 @@
+# orus-version: 0.0.0
+# orus's settings for this repository (ADR 0016). orus reads them from the main branch only.
+
+v: 0
+orus: 0.0.0
+gate: npm test # guessed
+test_targets:
+  - name: orus-pilot-calc-cli # guessed
+    language: typescript # guessed
+    path: . # guessed
+    test: npm test # guessed
+# No role runs until it is listed here. The roles: triage, dev, reviewer, release, dependency, security, test-quality, auditor.
+# To let Triage run, for example, replace the line below with:  roles: { triage: {} }
+roles: {}
