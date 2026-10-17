@@ -19,7 +19,7 @@
     "node": ">=24"
   },
   "dependencies": {
-    "orus-pilot-calc": "github:zkbox/orus-pilot-calc#v0.1.0"
+    "orus-pilot-calc": "github:zkorus/orus-pilot-calc#v0.1.0"
   },
   "devDependencies": {
     "@types/node": "24.19.2",

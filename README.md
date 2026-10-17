@@ -1,10 +1,10 @@
 # orus-pilot-calc-cli
 
-> **Temporary.** This repository is the consumer in the pilot of [orus](https://github.com/zkbox/orus), a framework
+> **Temporary.** This repository is the consumer in the pilot of [orus](https://github.com/zkorus/orus), a framework
 > for repositories that work with AI agents. It will be deleted when the pilot ends.
 
 A tiny calculator on the command line, built on
-[orus-pilot-calc](https://github.com/zkbox/orus-pilot-calc).
+[orus-pilot-calc](https://github.com/zkorus/orus-pilot-calc).
 
 ```sh
 calc add 2 3        # 5
